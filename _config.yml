@@ -16,7 +16,7 @@
 lang: en-US
 title: Mauricio Sevilla
 email: jmasevillam@gmail.com  
-description: This is a webpage test
+description: Personal Site
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
