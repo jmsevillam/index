@@ -14,19 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
-email:
-description:
+title: Mauricio Sevilla
+email: jmasevillam@gmail.com  
+description: This is a webpage test
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
+author: 
+  name: Mauricio Sevilla
   twitter:
-  picture:
+  picture: https://avatars0.githubusercontent.com/u/39960794?s=96&v=4
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+github_username: jmsevillam
+logo: https://avatars0.githubusercontent.com/u/39960794?s=96&v=4# path of site logo, e.g. "/assets/images/logo.png"
+search: false # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -66,7 +66,6 @@ exclude:
   - LICENSE
   - node_modules
   - Rakefile
-  - README
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
