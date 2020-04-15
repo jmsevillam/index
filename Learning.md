@@ -1,6 +1,6 @@
 ---
 title: "Learning"
-layout: Learning
+layout: About
 ---
 
 
