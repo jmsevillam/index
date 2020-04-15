@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-layout: Teaching
+layout: About
 ---
 
 Test
